@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bravo", "bravo\bravo.csproj", "{C4CD93AA-6322-4A2F-9069-BC87F31F614B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problemSolving", "problemSolving\problemSolving.csproj", "{6C25A532-ED1C-4496-8263-F262C0077E82}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{C4CD93AA-6322-4A2F-9069-BC87F31F614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4CD93AA-6322-4A2F-9069-BC87F31F614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4CD93AA-6322-4A2F-9069-BC87F31F614B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6C25A532-ED1C-4496-8263-F262C0077E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C25A532-ED1C-4496-8263-F262C0077E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C25A532-ED1C-4496-8263-F262C0077E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C25A532-ED1C-4496-8263-F262C0077E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
